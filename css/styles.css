@@ -15,6 +15,7 @@
 
 .sidebar{
   float: left;
+  position: absolute;
   background-color:  #f2f2f2;
   width: 10%;
 }
@@ -25,9 +26,21 @@
   margin-left: 11%;
 }
 
-.purple-box {
-
+.bg-info{
+  padding-bottom: 50%;
 }
+
+.nav{
+  margin-left: 10%;
+}
+
+#purple-box {
+  margin-left: 17.75%;
+  margin-right: 18.5%;
+  background-color: #f9e6ff;
+}
+
 #green_box{
   background-color: green;
+  padding-bottom: 3.25%;
 }
