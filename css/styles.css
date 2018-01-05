@@ -20,6 +20,9 @@
   width: 10%;
 }
 
+.sidebar p {
+  padding-left: 10px;
+}
 .top-box {
   width: 75%;
   padding-left: 1%;
@@ -27,11 +30,19 @@
 }
 
 .bg-info{
-  padding-bottom: 50%;
+  padding-bottom: 23%;
 }
 
 .nav{
   margin-left: 10%;
+}
+
+#top-blue {
+  padding-bottom: 139px;
+}
+
+#bottom-blue {
+  padding-bottom: 10px;
 }
 
 #purple-box {
